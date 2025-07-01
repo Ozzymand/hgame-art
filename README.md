@@ -9,7 +9,7 @@
 The folder structure is as such
 
 ```
-github/hgame-art/game_name/artwork.png | jpg | gif
+github/hgame-art/game_name/artwork.png | jpg | jxl | gif
 ```
 
 A jpg version is made available in regards to file size in the case of network restrictions where smallest possible size is prefered. 
